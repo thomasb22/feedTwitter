@@ -4,8 +4,6 @@ Feed Discord with RSS Feeds
 
 ## Requirements
 
-Create a bot: https://discord.com/developers/applications
-
 * Python 3
 * [twikit](https://github.com/d60/twikit)
 * [feedparser](https://github.com/kurtmckee/feedparser)
