@@ -1,6 +1,6 @@
-# feedDiscord
+# feedTwitter
 
-Feed Discord with RSS Feeds
+Feed Twitter with RSS Feeds
 
 ## Requirements
 
